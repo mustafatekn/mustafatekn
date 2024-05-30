@@ -14,28 +14,28 @@
 
 <h5>Framework</h5>
 <p>
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/react.svg" alt="react" width="40" height="40"/> 
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nextjs.webp" alt="nextjs" width="40" height="40"/> 
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/angular.svg" alt="angular" width="40" height="40"/>
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nodejs.svg" alt="nodejs" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/asp.net.png" alt="dotnet" width="40" height="40"/>
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/react.svg" alt="react" height="40"/> 
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nextjs.webp" alt="nextjs" height="40"/> 
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/angular.svg" alt="angular" height="40"/>
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nodejs.svg" alt="nodejs" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/asp.net.png" alt="dotnet" width="40" height="40"/>
 </p>
 
 <h5>Database</h5>
 <p>
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mongodb.webp" alt="mongodb" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mssql.jpg" alt="mssql" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mysql.png" alt="mysql" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mongodb.webp" alt="mongodb" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mssql.jpg" alt="mssql" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/mysql.png" alt="mysql" height="40"/>
 </p>
 
 
 <h5>Library</h5>
 <p>
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/tailwind.png" alt="tailwind" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/tailwind.png" alt="tailwind"  height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/bootstrap.png" alt="bootstrap" height="40"/>
 </p>
 
 <h5>Language</h5>
 <p>
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/typescript.png" alt="typescript" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/javascript.png" alt="javascript" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/csharp.png" alt="csharp" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/html.png" alt="html5" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/css.jpg" alt="css3" width="40" height="40"/>
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/typescript.png" alt="typescript" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/javascript.png" alt="javascript" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/csharp.png" alt="csharp" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/html.png" alt="html5" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/css.jpg" alt="css3" height="40"/>
 </p>
