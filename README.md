@@ -17,7 +17,7 @@
 <img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/react.svg" alt="react" height="40"/> 
 <img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nextjs.webp" alt="nextjs" height="40"/> 
 <img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/angular.svg" alt="angular" height="40"/>
-<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nodejs.svg" alt="nodejs" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/asp.net.png" alt="dotnet" width="40" height="40"/>
+<img align="center"  src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/nodejs.svg" alt="nodejs" height="40"/> <img align="center" src="https://raw.githubusercontent.com/mustafatekn/mustafatekn/main/src/images/asp.net.png" alt="dotnet" height="40"/>
 </p>
 
 <h5>Database</h5>
